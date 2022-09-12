@@ -1,6 +1,6 @@
 # A very Long never ending Learning around Data Engineering & Machine Learning
+![GettyImages-83077314-31d4b4d009f443c8ac37ee30eec32800](https://user-images.githubusercontent.com/28429565/189698315-566a0d2a-a3d8-4241-a59e-d8cf36350ba5.jpg)
 
-![](sketchnotes/background.jpeg)
 
 ## Interesting Reads
 
